@@ -3,9 +3,9 @@
 ## About Me
 
 - 📚 I have a background in Library Science.
-- 📖 I love books, and one of my projects is a book randomizer app!
 - 🔍 I'm currently exploring **React.js and Node.js**.
 - 💻 I genuinely love learning programming, and that's how I ended up here!
+- 📖 I love books, and one of my projects is a book randomizer app!
 
 ## Technologies & Tools
 
